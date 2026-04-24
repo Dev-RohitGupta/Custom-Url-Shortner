@@ -42,8 +42,6 @@ The application is successfully deployed on AWS EC2:
 - NGINX configured for reverse proxy
 - SSL/TLS encryption enabled
 
-Live Demo: http://3.110.108.163.nip.io:4000/
-GitHub Repository: https://github.com/theRohitGupta/TheAlterOfficeAssignment-Custom-Url-Shortner
 
 ## Task Brief
 
